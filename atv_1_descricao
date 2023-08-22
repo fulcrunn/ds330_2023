@@ -1,7 +1,0 @@
-Aluguel de veículos
-
-O cliente faz o cadastro fornecendo nome, endereço,telefone, profissão, nome de um contato, telefone do contato, número da habilitação e categoria da habilitação. 
-
-Cada carro tem uma marca, modelo, cor, placa, km atual, número de portas, capacidade de passageiros, lista de opcionais (padrão,médio,luxo) e um status que pode ser (livre, alugado, manutenção, baixado)
-
-O cliente pode escolher entre os vários modelos de veículos disponíveis, depois define uma data/hora de retirada e uma data/hora de devolução. O cliente paga um valor de diária que é específico de cada veículo. 
