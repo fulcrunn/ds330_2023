@@ -1,0 +1,17 @@
+Acessando mysql server
+No terminal digitar:
+mysql -u root -p
+senha: andre1983
+
+/*PRIMEIRO CRIAR TABELAS Q Ñ TEM CHAVE ESTRANGEIRA*/
+
+DESCRIBE <TABLE NAME> /*DESCREVE O Q TEM NA TABELA*/
+DROP TABLE /*DELETA UMA TABELA*/
+SELECT * FROM db_1.Fornecedor;   /*EXIBINDO VALORES DAS TABELA, case sensitive*/
+
+http://www.bosontreinamentos.com.br/mysql/tipos-de-data-e-hora-no-mysql/ /*COMANDOS DE TEMPO*/
+
+
+SET FOREIGN_KEY_CHECKS = 0;  #Disable the foreign key check and enable it.
+drop table ...
+SET foreign_key_checks = 1;
